@@ -36,6 +36,8 @@ Two general categories to describe data
 * Quantitative - bar, line
 * Categories - shape
 
+![Visual Attributes for measurer](https://github.com/sumitkant/Data-Visualization-using-Tableau/blob/master/Visual%20Attributes%20for%20measures.PNG)
+
 ### 2.5 Aesthetics
 1. Color
 2. Alignment
@@ -76,6 +78,23 @@ A general framework to think about determining visual context is shown below.
 #### Progressive Disclosure
 Showing data based on context, urgency and criticality.
 
+![Data Relationships](https://github.com/sumitkant/Data-Visualization-using-Tableau/blob/master/data%20relationships.PNG)
 
+### 4.5 Static vs Interactive Viz.
+* Ben Shneiderman rules for data visualization - Overview first, zoom and filter and then details on demand.
+* Colin Ware's Viz Framework 
+ 1. Direct Manipulation of Graphical objects
+ 2. Exploration and navigation
+ 3. Problem solving and question generation - primary purposes of DV
+ 
+### 4.6 Multiple Connected Views
+Coordinated views of DV - contain a mix of different but related visualizations. For Example, bar charts, scatter plots and maps etc.
+Pivots are used to view data from different perspectives inclusing some summary statistics.
 
+### 4.7 Language labelling and Scales
+Survivor ship bias - During World War II fighters were being shot down at an alarming rate. So they studied the survived fighters to understand where the protection must be added. They increased the armour where there found holes in the aircraft. However the resolution had a drawback since they were looking that survived and not at the planes for whom the damage was catastrophic
 
+Key descriptors in a visualization can either clarify or make picture more confusing instead of just describing what's happenining in the picture.
+
+### 4.8 Visual Lies and Cognitive Bias
+Beliefs can distort interpretation. Hence, knowledge of audience is important to select what and how the visualization is portrayed to them
