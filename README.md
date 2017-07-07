@@ -71,5 +71,11 @@ Strengths and weakness of different visual encoding elements•
 For purely explanatory purposes, interactivity may not be needed, nor any prior knowledge expected. If the purpose is exploratory, you need to provide users with more direct control and interactivity for their analytic process and workflow.
 A general framework to think about determining visual context is shown below.
 
+![Design for Purpose](https://github.com/sumitkant/Data-Visualization-using-Tableau/blob/master/DFP.PNG)
+
+#### Progressive Disclosure
+Showing data based on context, urgency and criticality.
+
+
 
 
